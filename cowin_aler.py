@@ -14,7 +14,7 @@ Vaccine ----> optional either ""  or COVAXIN, COVISHIELD, SPUTNIK
 """
 
 age=45
-vaccine="COVISHELD"
+vaccine=""
 pincode='600095'
 today = date.today().strftime("%d-%m-%Y")
 available_center=dict()
